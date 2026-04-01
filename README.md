@@ -51,6 +51,3 @@ We believe your time is your most private asset.
 
 ## 📄 License
 Stanza is released under the [MIT License](LICENSE).
-
----
-*Crafted with ❤️ for the macOS community.*
