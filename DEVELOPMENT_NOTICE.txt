@@ -1,0 +1,17 @@
+# STANZA - DEVELOPMENT BUILD
+
+This is a pre-release, unsigned build of the Stanza application. Because it has not been notarized by Apple, you will need to manually grant it permission to run on your Mac.
+
+## 🚀 To Open the App:
+
+1.  Drag **Stanza** to your **Applications** folder.
+2.  Open **Terminal.app** (find it in Applications > Utilities).
+3.  Copy and paste the following command, then press Enter:
+
+    xattr -dr com.apple.quarantine /Applications/Stanza.app
+
+4.  You can now launch the app from your Applications folder.
+
+---
+**Why is this necessary?**
+This app is self-signed to ensure the code hasn't been tampered with since it was built. However, because it's a development build, it hasn't been officially "notarized" by Apple. This command removes the "quarantine" tag that macOS automatically applies to all downloaded software.
