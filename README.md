@@ -1,6 +1,6 @@
 # Stanza: Privacy-First AI Time Tracking for macOS
 
-![Stanza Banner](https://raw.githubusercontent.com/placeholder-stanza-banner.png)
+![Stanza Banner](https://raw.githubusercontent.com/neewy/stanza/main/screenshots/screenshot_1.png)
 
 > **"What did I actually do today?"** 
 
@@ -12,9 +12,16 @@ Stanza is a native macOS application that silently observes your active window c
 
 - **🪄 AI-Powered Context**: Automatically generates 2-3 word task descriptions based on your active windows, calendar events, and app usage patterns.
 - **🔒 100% Local Intelligence**: Powered by **Ollama**. Your activity data is analyzed by local LLMs (like Llama 3) on your own Apple Silicon. No cloud, no tracking, no privacy tradeoffs.
-- **📊 Elegant Visualization**: Built with native SwiftUI Charts to provide beautiful, actionable insights into where your time is invested.
 - **🕒 Timeline of Truth**: Integrates with **ActivityWatch** to show you exactly which apps you were using during a specific timer entry.
 - **⚡️ Zero-Config Onboarding**: An integrated setup wizard helps you install dependencies via Homebrew and get tracking in under 60 seconds.
+- **🍅 Focus with Pomodoro**: A built-in tracker that helps you maintain deep-work sessions with customizable intervals.
+
+![Stanza Dashboard with Pomodoro](https://raw.githubusercontent.com/neewy/stanza/main/screenshots/screenshot_2.png)
+
+- **📊 Reports**: Built with native SwiftUI Charts to provide beautiful, actionable insights into where your time is invested.
+
+![Stanza Dashboard Analytics](https://raw.githubusercontent.com/neewy/stanza/main/screenshots/screenshot_3.png)
+
 
 ## 🚀 Getting Started
 
