@@ -35,8 +35,8 @@ DerivedData/
 .swiftpm/
 
 # Artifacts/Distribution
-TrackerApp.app/
-TrackerApp.dmg
+Stanza.app/
+Stanza.dmg
 *.dmg
 *.zip
 *.tar.gz
